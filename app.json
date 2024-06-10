@@ -1,8 +1,8 @@
 {
-  "name":"BMW-X5MD",
+  "name":"𝘼𝙏𝙚𝙖𝙢 𝙋𝙪𝙗𝙡𝙞𝙘 𝘽𝙤𝙩",
   "description":"bot whatsapp développé by Ibrahim adams",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/7cd9d893413bffb0c5bdb.jpg",
+  "logo":"https://telegra.ph/file/a0ed56bf8baed297aaa1b.jpg",
   "repository":"https://github.com/ibrahimaitech/BMW-MD",
   "succes_url":"/",
   "stack":"container",
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BMW-XMD",
+      "value":"𝘼𝙏𝙚𝙖𝙢 𝙋𝙪𝙗𝙡𝙞𝙘 𝘽𝙤𝙩",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/ca5688b76af3e964f963b.jpg",
+      "value":"",
       "required":false
        
      },
